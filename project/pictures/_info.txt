@@ -1,0 +1,78 @@
+LICENSES
+
+Images
+demo.png
+demo2.png
+donut.png
+are images in public domain, free to be used by anyone for any legal purpose and are without any warranty.
+
+
+The images  
+dino.png
+elephant.png
+farmer.png
+kluk.png
+lamb.png
+mates.png
+rabbit.png
+rumcajs.png
+sheep.png
+unicorn.png
+wolf.png
+are images provided by Czech Technical University in Prague for testing purposes. For the type and source of their license, please contact prof. Ing. Daniel Sýkora, Ph.D.
+who provided them.
+
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The image
+toon_zebra.png	source: https://www.wikihow.com/Draw-a-Zebra
+is the modified version of the image provided by wikiHow. License: CC BY-NC-SA 3.0 DEED (https://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Images below are under CC0 1.0 DEED
+described by https://creativecommons.org/publicdomain/zero/1.0/
+
+LICENSE CCO 1.0
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law,
+including all related and neighboring rights, to the extent allowed by law.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.
+
+Other Information
+In no way are the patent or trademark rights of any person affected by CC0, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.
+Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
+When using or citing the work, you should not imply endorsement by the author or the affirmer.
+
+Images under CC0
+swan.png         source: https://www.rawpixel.com/image/6257395/png-sticker-vintage
+horses.png       source: https://www.rawpixel.com/image/3044799/free-illustration-image-black-and-white-horse-vintage-sketch
+two_horses.jpg   source: https://www.rawpixel.com/image/481532/free-illustration-image-sketch-farm-wild-horse
+rabbit2.png      source: https://www.rawpixel.com/image/6287702/png-sticker-vintage
+steed.jpg        source: https://www.rawpixel.com/image/3044497/free-illustration-image-horse-leo-gestel-art
+deer.jpg         source: https://www.rawpixel.com/image/481562/free-illustration-image-christmas-deer-reindeer
+brontosaurus.png source: https://www.rawpixel.com/image/6327123/png-sticker-public-domain
+deer2.png        source: https://www.rawpixel.com/image/6287978/png-sticker-vintage
+boar.jpg         source: https://www.rawpixel.com/image/481619/free-illustration-image-pig-sketch-vintage
+cow.jpg          source: https://www.rawpixel.com/image/481428/free-illustration-image-cow-beef-sketch
+griphon.png      source: https://www.rawpixel.com/image/6264764/png-vintage-public-domain
+lion.png         source: https://www.rawpixel.com/image/6258268/png-sticker-vintage
+dinosaur.png     source: https://www.rawpixel.com/image/6270915/png-sticker-vintage
+cow2.png         source: https://www.rawpixel.com/image/6256526/png-sticker-vintage
+sloth.png        source: https://www.rawpixel.com/image/6257183/png-sticker-vintage
+perognathus.jpg  source: https://www.rawpixel.com/image/571783/pocket-mouse-vintage-drawing
+wolf2.png        source: https://www.rawpixel.com/image/6257185/png-sticker-vintage
+fairy.jpg        source: https://www.rawpixel.com/image/6314947/image-vintage-public-domain-woman
+dragon.png       source: https://www.rawpixel.com/image/6287218/png-sticker-vintage
+emu.jpg          source: https://www.rawpixel.com/image/6256901/psd-sticker-vintage-public-domain
+dog.jpg          source: https://www.rawpixel.com/image/6256989/psd-sticker-vintage-public-domain
+bigbird.jpg      source: https://www.rawpixel.com/image/6289252/psd-sticker-vintage-public-domain
+hippo.jpg        source: https://www.rawpixel.com/image/6289187/psd-sticker-vintage-public-domain
+dog2.jpg         source: https://www.rawpixel.com/image/6261234/psd-vintage-public-domain-art
+unicorn2.jpg     source: https://www.rawpixel.com/image/6265012/image-vintage-public-domain-art
+zebra.jpg        source: https://www.rawpixel.com/image/6305642/psd-sticker-vintage-public-domain
+dog3.jpg         source: https://www.rawpixel.com/image/6264868/psd-vintage-public-domain-art
+dog4.png         source: https://www.rawpixel.com/image/6261350/png-vintage-public-domain
+dodo.jpg         source: https://www.rawpixel.com/image/6327530/psd-sticker-public-domain-vintage-illustrations
+antelope.jpg     source: https://www.rawpixel.com/image/6536528/image-vintage-public-domain-black
+hyena.jpg        source: https://www.rawpixel.com/image/6536525/image-vintage-public-domain-black
+
