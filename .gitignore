@@ -1,7 +1,7 @@
 *.vs
 ./project/Debug
 ./project/Release
-*x64
+./project/x64
 ./project/cplog.txt
 ./project/packages
 ./project/dependencies/eigen-3.4.0
